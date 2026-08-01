@@ -58,7 +58,7 @@ La aplicación está preparada para ejecutarse mediante **Docker** y **Docker Co
 ### Contenedor
 - Backend corriendo en `http://localhost:8099`.
 - Frontend corriendo en `http://localhost:3000`.
-- Base de datos PostgreSQL corriendo en `localhost:5432`.
+- Base de datos PostgreSQL corriendo en `localhost:5433`.
 
 ---
 
@@ -68,6 +68,6 @@ La aplicación está preparada para ejecutarse mediante **Docker** y **Docker Co
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/BREINHZ/DianaTibisayPachecoMoreno.git
+git clone https://github.com/BREINHZ/backend_diana_pacheco.git
 cd DianaTibisayPachecoMoreno
 
