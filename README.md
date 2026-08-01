@@ -12,8 +12,9 @@ La aplicación está preparada para ejecutarse mediante **Docker** y **Docker Co
 
 ## Repositorios
 
-- **Backend**: [https://github.com/BREINHZ/DianaTibisayPachecoMoreno.git](https://github.com/BREINHZ/DianaTibisayPachecoMoreno.git)
-- **Frontend**: [https://github.com/BREINHZ/FrontDianaTibisayPachecoMoreno.git](https://github.com/BREINHZ/FrontDianaTibisayPachecoMoreno.git)
+- **Backend**: [https://github.com/BREINHZ/DianaTibisayPachecoMoreno.git](https://github.com/BREINHZ/backend_diana_pacheco.git
+)
+- **Frontend**: [https://github.com/BREINHZ/FrontDianaTibisayPachecoMoreno.git](https://github.com/BREINHZ/frontend_diana_pacheco.git)
 
 ---
 
